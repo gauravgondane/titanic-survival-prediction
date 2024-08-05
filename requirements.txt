@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 jupyter==1.0.0
 numpy==2.0.1
 setuptools==72.1.0
 wheel==0.43.0
+=======
+jupyter==1.0.0
+numpy==2.0.1
+setuptools==72.1.0
+wheel==0.43.0
+streamlit==1.10.0
+scikit-learn==1.2.1
+pandas==2.1.0
+>>>>>>> 409357569394b3fb0015eda07202fdc62210d71c
